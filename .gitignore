@@ -1,0 +1,24 @@
+# Virtual environment (do not push libraries to Git)
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Trained ML models and large artifacts
+models/*.joblib
+models/*.pkl
+
+# Generated prediction files / local outputs
+data/predictions.csv
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# IDE configuration
+.vscode/
+.idea/

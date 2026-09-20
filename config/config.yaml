@@ -1,0 +1,13 @@
+data:
+  raw_file_path: "data/raw/customer_data.csv"
+  target_column: "churned"
+  id_columns:
+    - "customer_id"
+    - "full_name"
+    - "email"
+
+model:
+  test_size: 0.20
+  random_state: 42
+  decision_threshold: 0.25
+  output_model_path: "models/pipeline.joblib"

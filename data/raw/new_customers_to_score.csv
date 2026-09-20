@@ -1,0 +1,11 @@
+customer_id,full_name,email,plan_tier,payment_method,tenure_months,monthly_bill,support_calls_30d,dropped_call_rate
+NEW-2000,Rohan Kulkarni,user_1000@example.com,Basic,UPI,32,140.82,0,0.0455
+NEW-2001,Neha Deshmukh,user_1001@example.com,Basic,UPI,40,135.9,0,0.1891
+NEW-2002,Rohan Joshi,user_1002@example.com,Pro,Credit Card,13,128.86,2,0.012
+NEW-2003,Rahul Iyer,user_1003@example.com,Basic,Credit Card,45,27.84,0,0.0505
+NEW-2004,Neha Deshmukh,user_1004@example.com,Basic,Credit Card,17,152.54,3,0.1494
+NEW-2005,Sneha Nair,user_1005@example.com,Pro,UPI,49,81.62,2,0.1815
+NEW-2006,Neha Verma,user_1006@example.com,Pro,Credit Card,37,141.38,4,0.23
+NEW-2007,Ananya Deshmukh,user_1007@example.com,Basic,Bank Transfer,6,122.4,1,0.1793
+NEW-2008,Priya Nair,user_1008@example.com,Enterprise,UPI,19,84.98,3,0.1712
+NEW-2009,Ananya Patel,user_1009@example.com,Pro,UPI,13,48.55,0,0.1046
